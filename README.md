@@ -1,7 +1,7 @@
 iOSDragDropCellBetweenTables
 ============================
 
-![      ](\cellTransferImg.png.png "")
+![      ](\cellTransferImg.png "")
 
 
 >
