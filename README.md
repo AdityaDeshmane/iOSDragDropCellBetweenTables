@@ -9,8 +9,8 @@ Features :
 
 ##About 
 
-><p>This is single view application, you can use code as it is just by setting outlets of your two tables and setting cell identifier. (You will need to do some modification if cell not showing just strings )
-><p>Basic idea/logic behid this source : 
+This is single view application, you can use code as it is just by setting outlets of your two tables and setting cell identifier. (You will need to do some modification if cell not showing just strings )
+Basic idea/logic behid this source : 
 
 ><li>1. Find source indexpath of cell from drag point in source table.</li>
 
