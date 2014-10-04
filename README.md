@@ -12,7 +12,7 @@ Features :
 ##About 
 
 >This is single view application, you can use code as it is just by setting outlets of your two tables and setting cell identifier. (You will need to do some modification if cell not showing just strings )
-Basic idea/logic behid this source : 
+<li>Basic idea/logic behid this source : </li>
 
 ><li>1. Find source indexpath of cell from drag point in source table.</li>
 
@@ -22,7 +22,7 @@ Basic idea/logic behid this source :
 
 ><li>4. Create cell view to drag around by using saved data.</li>
 
-><li>5. From drop point find destination indexpath (this could be in same or different table)</li>
+><li>5. From drop point find destination indexpath, this could be in same or different table</li>
 
 ><li>6. Add new cell by using saved data at destination indexpath.</li>
 
@@ -50,7 +50,7 @@ How to use it?
 
 ><li>Xcode : 4 to 6 (Developed using 5.1.1) </li>
 
-><li>Base SDK : 7.0 (works fine on 6.0 to 8.0) </li>
+><li>Base SDK : 7.0 works fine on 6.0 to 8.0 </li>
 
 ><li> Requires storybord/xib ? : You just need outlets of UItableViews (works on both)</li>
 
