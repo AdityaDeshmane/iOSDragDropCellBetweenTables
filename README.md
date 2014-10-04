@@ -23,7 +23,7 @@ Features :
 ><li>4. Create cell view to drag around by using saved data.</li>
 
 ><li>5. From drop point find destination indexpath, point could be in same or different table.</li>
-
+<li>
 ><li>6. Add new cell by using saved data at destination indexpath.</li>
 
 
@@ -53,7 +53,7 @@ How to use it?
 ><li>Xcode : 4 to 6 (Developed using 5.1.1) </li>
 
 ><li>Base SDK : 7.0 works fine on 6.0 to 8.0 also </li>
-
+<li>
 ><li> Requires storybord/xib ? : You just need outlets of UItableViews (works on both)</li>
 
 
