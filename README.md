@@ -5,11 +5,13 @@ iOSDragDropCellBetweenTables
 
 
 ## Features :
->
+
+* Works from iOS 6 to 11
+
 * Drag cell from one table and drop to another table.
->
+
 * Rearrange cells within table.
->
+
 
 ## About 
 
@@ -31,8 +33,6 @@ This is single view application, you can use code as it is just by setting outle
 
 ## Other Info : 
 
-
-<li>Works from iOS 6 to 11
 
 <li>Uses ARC : Yes </li>
 
