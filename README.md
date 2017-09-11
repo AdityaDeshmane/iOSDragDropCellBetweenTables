@@ -7,13 +7,12 @@ iOSDragDropCellBetweenTables
 >
 Features :
 >
-* Lets you drag cell from one table and drop that cell to another table.
+* Drag cell from one table and drop to another table.
 >
-* You can drag drop cell from table ONE to table TWO and vice versa.
+* Rearrange cells within table.
 >
-* Reordering of cells within same table.
 
-##About 
+## About 
 
 >This is single view application, you can use code as it is just by setting outlets of your two tables and setting cell identifier (Application is using string array to populate data in tables few modifation will let you use whichever data you want)
 <li>Basic idea/logic behid this source : </li>
