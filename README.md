@@ -10,7 +10,7 @@ iOSDragDropCellBetweenTables
 
 * Drag cell from one table and drop to another table.
 
-* Rearrange cells within table.
+* Rearrange cells within the table.
 
 
 ## About 
